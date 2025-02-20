@@ -99,3 +99,6 @@ Additional control algorithms (e.g., fuzzy logic)  <br>
 Enhanced data logging and analysis  <br>
 3D-printed custom housing  <br>
 
+## TINKERCAD SIMULATION
+https://www.tinkercad.com/things/ij7YmJMZmQy-air-ball-levitation-system?sharecode=pIKio825akA3C3FJb9IXXrqDX-6_rH5UZpds-5RQVkQ
+
