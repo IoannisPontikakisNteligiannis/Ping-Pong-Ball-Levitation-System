@@ -93,7 +93,7 @@ Challenge: Ball oscillations at certain heights  <br>
 Solution: Fine-tuned PID parameters and implemented derivative control  <br>
 
 
-## System Behaviour: 
+## System Behaviour with One Violent Movement: 
 <img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/13ea7adf-73c5-4f41-ba82-ed0b69e04f4b" />
 
 
